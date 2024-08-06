@@ -15,8 +15,8 @@ markup:
 
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
+    - name: WriteUp
+      pageRef: /blog/writeup
       weight: 2
     - name: Search
       weight: 4
@@ -38,3 +38,14 @@ params:
 
   editURL:
     enable: false
+
+  blog:
+    list:
+      displayTags: true
+      sortBy: publishDate
+      sortOrder: desc
+
+  highlight:
+    copy:
+      enable: true
+      display: hover
