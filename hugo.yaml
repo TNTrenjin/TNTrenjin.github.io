@@ -22,6 +22,11 @@ menu:
       weight: 4
       params:
         type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/tntrenjin"
+      params:
+        icon: github
 
 params:
   theme:
