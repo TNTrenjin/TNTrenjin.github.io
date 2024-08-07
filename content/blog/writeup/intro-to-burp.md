@@ -51,4 +51,4 @@ otp=123
 
 ### Flag
 
-> picoCTF{#0TP_Bypvss_SuCc3$S_6bffad21}
+> picoCTF{#0TP_Bypvss_SuCc3$S_9090d63c}
