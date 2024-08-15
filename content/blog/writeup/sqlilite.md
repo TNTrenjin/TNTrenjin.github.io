@@ -6,10 +6,10 @@ authors:
     id: tntrenjin
     image: https://avatars.githubusercontent.com/u/45209009
 tags:
-  - picoCTF 2024
+  - picoCTF2024
   - writeup
   - Medium
-  - Web Exploitation
+  - WebExploitation
 ---
 
 <!--more-->
@@ -22,7 +22,7 @@ tags:
 ### 測試
 
 當你隨便輸入按登入後，會跳出 SQL query 的指令
-![](2024-08-15T00.59.19.png)
+![](./sqlilite/2024-08-15T00.59.19.png)
 
 ### 攻擊
 

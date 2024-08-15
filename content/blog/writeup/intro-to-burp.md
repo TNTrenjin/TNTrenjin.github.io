@@ -6,10 +6,10 @@ authors:
     id: tntrenjin
     image: https://avatars.githubusercontent.com/u/45209009
 tags:
-  - picoCTF 2024
+  - picoCTF2024
   - writeup
   - Easy
-  - Web Exploitation
+  - WebExploitation
 ---
 
 <!--more-->
